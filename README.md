@@ -1,8 +1,6 @@
 # FPGA-FFT-Implementation
 A hardware implementation of the Cooley-Tukey Radix-2 FFT algorithm in FPGA 
-# FPGA-Based FFT Implementation
 
-A hardware implementation of the Cooley-Tukey Radix-2 FFT algorithm based on the tutorial by George Slade.
 
 ## Features
 - 32-point to 1024-point configurable FFT
