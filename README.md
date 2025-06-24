@@ -38,3 +38,11 @@ fft_core #(
     .data_out(data_out),
     .done(done)
 );
+
+# Results
+https://docs/images/fft_output.png
+
+# References
+Slade, G. W. "The Fast Fourier Transform in Hardware: A Tutorial Based on an FPGA Implementation" (2013)
+
+Cooley, J. W.; Tukey, J. W. "An algorithm for the machine calculation of complex Fourier series" (1965)
