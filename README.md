@@ -25,7 +25,7 @@ See the theory notes(docs/theory.md).
 3. Open the project file in /rtl
 
 ## Usage
-```verilog
+verilog
 // Instantiate the FFT core
 fft_core #(
     .POINT_SIZE(32),
@@ -39,10 +39,10 @@ fft_core #(
     .done(done)
 );
 
-# Results
+## Results
 https://docs/images/fft_output.png
 
-# References
+## References
 Slade, G. W. "The Fast Fourier Transform in Hardware: A Tutorial Based on an FPGA Implementation" (2013)
 
 Cooley, J. W.; Tukey, J. W. "An algorithm for the machine calculation of complex Fourier series" (1965)
